@@ -1,5 +1,5 @@
 # Music-template
 
-#OutPut
 
-![maghrabi1](https://user-images.githubusercontent.com/109771302/181090185-eeb9e0a8-a6b7-4fe0-b520-502359ebcba3.jpg)
+
+![maghrabi1](https://user-images.githubusercontent.com/109771302/181090288-105b4980-120d-4934-a3ed-acf4b1a57948.jpg)
