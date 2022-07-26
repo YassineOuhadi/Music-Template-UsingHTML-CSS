@@ -1,0 +1,33 @@
+#album1 {
+  position: relative;
+}
+#album1::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-image: url(media/pnl1.png);border-radius: 20px;filter: blur(5px);
+}
+#album1 #inner {
+  position: relative;
+}
+
+
+#album2 {
+  position: relative;
+}
+#album2::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-image: url(media/ISSAM.jfif);border-radius: 20px;filter: blur(5px);
+}
+#album2 #inner {
+  position: relative;
+}
+
+.card1:hover{transform: scale(0.9);}
+
+
+
